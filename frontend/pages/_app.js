@@ -38,9 +38,9 @@ export default function MyApp({ Component, pageProps }) {
       ) : (
         <>
           <MessengerCustomerChat
-            pageId="2123438804574660"
-            appId="406252930752412"
-            htmlRef="https://connect.facebook.net/en_US/sdk.js"
+          // pageId="2123438804574660"
+          // appId="406252930752412"
+          // htmlRef="https://connect.facebook.net/en_US/sdk.js"
           />
           <Helmet>
             <meta

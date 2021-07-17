@@ -81,7 +81,7 @@ const TopCollection = ({
       setDelayProduct(false);
     }, 1);
   }, [delayProduct]);
-  
+
   return (
     <>
       <section className={designClass}>
